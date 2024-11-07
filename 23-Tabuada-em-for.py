@@ -1,6 +1,3 @@
-# Solicita ao usuário para inserir um número
-# Camila Queiroz 2°C
-
 numero = int(input("Digite um número para ver a tabuada: "))
 
 # Exibe a tabuada do número
